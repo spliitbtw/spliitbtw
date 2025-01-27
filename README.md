@@ -1,5 +1,5 @@
-<h1 align="center">What's good, I'm spliit </h1>
-<h3 align="center">A passionate frontend developer from Spain</h3>
+<h1 align="center">yo im spliit </h1>
+<h3 align="center">Programmer student</h3>
 
 -   I’m currently working on **any project that comes up to my mind**
 
@@ -7,9 +7,7 @@
 
 -   I like to **go to the gym and workout**
 
--   How to reach me **you can reach me through twitter**
-
--   Fun fact **I think im funny**
+-   How to reach me **you can reach me through any media**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
